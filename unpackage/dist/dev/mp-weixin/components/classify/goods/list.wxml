@@ -1,0 +1,1 @@
+<view class="goodscard_list"><scroll-view><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><goods-card vue-id="{{'3a1dbfaf-1-'+index}}" data="{{item}}" bind:__l="__l"></goods-card></block></scroll-view></view>

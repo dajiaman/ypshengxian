@@ -1,0 +1,12 @@
+{
+  "navigationBarBackgroundColor": "#9151FF",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 20,
+  "usingComponents": {
+    "banner": "/components/home/banner/index",
+    "navigation-info": "/components/home/navigation/index",
+    "hot-sale": "/components/home/hotsale/index",
+    "go-to-top": "/components/home/goTop"
+  }
+}

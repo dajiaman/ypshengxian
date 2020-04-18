@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "user-info-panel": "/components/mine/user_panel",
+    "order-panel": "/components/mine/order/panel"
+  }
+}

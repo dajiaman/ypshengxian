@@ -1,0 +1,12 @@
+
+.goTop_image{
+	width: 100rpx;
+	height: 100rpx;
+}
+.goTop{
+	position: fixed;
+	bottom: 200rpx;
+	right: 50rpx;
+}
+
+

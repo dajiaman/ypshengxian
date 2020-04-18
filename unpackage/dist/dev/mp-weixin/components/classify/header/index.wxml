@@ -1,0 +1,1 @@
+<view><uni-search-bar vue-id="362dde36-1" placeholder="商品搜索" clearButton="false" cancelButton="false" radius="{{100}}" data-event-opts="{{[['^confirm',[['search']]]]}}" bind:confirm="__e" bind:__l="__l"></uni-search-bar></view>

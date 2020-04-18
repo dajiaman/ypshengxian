@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "hot-sale-card": "/components/home/hotsale/card"
+  }
+}

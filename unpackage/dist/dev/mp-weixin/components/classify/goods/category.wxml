@@ -1,0 +1,1 @@
+<view class="category_list"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['handleClick',[index]]]]]}}" class="{{['item',(activeIndex==index)?'item-select':'']}}" bindtap="__e">{{item.name}}</view></block></view>

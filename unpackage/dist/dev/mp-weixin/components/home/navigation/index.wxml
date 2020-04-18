@@ -1,0 +1,1 @@
+<view class="app-nav"><view class="app-nav-list"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="app-nav-item"><image class="icon" src="{{item.image}}"></image><text class="title">{{item.title}}</text></view></block></view></view>

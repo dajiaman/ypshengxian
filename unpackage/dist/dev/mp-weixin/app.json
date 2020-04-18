@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classfy/index",
+    "pages/mine/index",
+    "pages/cart/index",
+    "pages/pick/index",
+    "pages/shop/map",
+    "pages/goods/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "谊品生鲜",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#9151FF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/logo_tab_sel.png",
+        "selectedIconPath": "static/tabbar/logo_icon_tab.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/classfy/index",
+        "iconPath": "static/tabbar/logo_tab_classify_unsel.png",
+        "selectedIconPath": "static/tabbar/logo_tab_classify_sel.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/index",
+        "iconPath": "static/tabbar/cart_icon_tab.png",
+        "selectedIconPath": "static/tabbar/cart_tab_sel.png"
+      },
+      {
+        "text": "取货",
+        "pagePath": "pages/pick/index",
+        "iconPath": "static/tabbar/main_pick_tab.png",
+        "selectedIconPath": "static/tabbar/main_pick_sel.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/tabbar/cart_icon_tab.png",
+        "selectedIconPath": "static/tabbar/cart_tab_sel.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

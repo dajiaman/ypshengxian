@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "header": "/components/classify/header/index",
+    "goods-category": "/components/classify/goods/category",
+    "goods-list": "/components/classify/goods/list"
+  }
+}
